@@ -167,7 +167,7 @@ Partial Class Form1
         Me.Label3.Size = New System.Drawing.Size(0, 13)
         Me.Label3.TabIndex = 14
         '
-        'Form1
+        'Form_Drik
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -186,7 +186,7 @@ Partial Class Form1
         Me.Controls.Add(Me.But_Te)
         Me.Controls.Add(Me.But_Kaffe)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow
-        Me.Name = "Form1"
+        Me.Name = "Form_Drik"
         Me.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide
         Me.Text = "Form1"
         Me.ResumeLayout(False)
