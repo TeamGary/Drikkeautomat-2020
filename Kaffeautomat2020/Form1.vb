@@ -68,7 +68,5 @@ Public Class Form1
 
     End Sub
 
-    Private Sub Form_Drik_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
-    End Sub
 End Class
